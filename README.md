@@ -1,0 +1,2 @@
+# sequential
+squential search
